@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etablemo.github.io/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/app/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/assets/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/css/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/data/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/includes/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/item/sitemap.etablemo.gz
+Sitemap: https://etablemo.github.io/src/sitemap.etablemo.gz
